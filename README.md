@@ -11,5 +11,6 @@ For reference, take a look at a popular app such as Twitter. Twitter's settings 
 it clear what each group is generally about. Additionally, you may use the footer field to add a slightly more detailed description
 at a smaller text size.
 
-<img src="" height="400px;" width="650px;" />
-<img src="" height="400px;" width="650px;" />
+<img src="HomeScreen.png" height="650px;" width="400px;" />
+<img src="SettingsScreen.png" height="650px;" width="400px;" />
+<img src="EditProfileScreen.png" height="650px;" width="400px;" />
